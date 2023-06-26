@@ -1,2 +1,6 @@
-# LJM_Regression
-卢佳敏文章相关的数据，回归模型代码
+# LJM_Regression_Models
+Data and regression models code related to Lu Jiamin's article.
+
+
+Software with GUI:
+![image](https://github.com/WangJianwei1991/LJM_Regression/assets/35262865/cfd24674-9355-4550-967f-a72881468453)
