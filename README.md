@@ -10,12 +10,13 @@ Python packages that need to be installed: **pandas(1.1.5), numpy(1.19.2), sciki
 Users can also try using other versions of Python and packages.
 
 ## 2. User guide
-###2.1. User interface
+**2.1. User interface**
+
 After completing the above configuration, users can run the **RegressionModels\_UI.py** file, If all configurations are OK, the program will display the following user interface.
 
 ![image](https://github.com/WangJianwei1991/LJM_Regression/assets/35262865/cfd24674-9355-4550-967f-a72881468453)
 
-###2.2. Usage
+**2.2. Usage**
 
 1. Download the dataset.xlsx file. 
 2. Click the '**Load Dataset**' button to load the data set.
