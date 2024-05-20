@@ -1,8 +1,8 @@
 # Supplementary Information - Source Code
 
-Source code of article 'Roboticized AI-assisted microfluidic photocatalytic synthesis and screening up to 10,000 reactions per day'.
+Supplementary Information of article **'Roboticized AI-assisted microfluidic photocatalytic synthesis and screening up to 10,000 reactions per day'**.
 
-This repository provides the data set and the source code related to the regression models.
+This repository provides the data set and the source code related to the section **'AI-assisted ultra-high-throughput photocatalytic synthesis and screening'**.
 
 ## 1. Python environment configuration
 The code was written and tested in **Python 3.6.13**.
